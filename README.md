@@ -2,4 +2,4 @@
 
 ID: 23BI14229
 Name: Dang Minh Khoi
-Class 1
+ICT Class 1
