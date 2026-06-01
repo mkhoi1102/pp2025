@@ -118,7 +118,7 @@ def input_marks():
 input_marks()
 
 def print_marks():
-    course_id = input(" Enter course's ID: ").strip()
+    course_id = input("\nEnter course's ID to track students' mark: ").strip()
     print(f"\nMarks for course {course_id}:\n")
     flag = False
 
@@ -131,8 +131,8 @@ def print_marks():
 
 print_marks()
 
-                
+ 
 
 
     
-        
+         
